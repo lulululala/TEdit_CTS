@@ -9,7 +9,6 @@ train:
   epochs: 50
   batch_size: 256
   lr: 1.0e-5
-  itr_per_epoch: 1.0e+8
   model_path: ""
   output_folder: pretrain
   val_epoch_interval: 1
